@@ -2,24 +2,29 @@
   "dependencies": {
     "nodemon": "^3.1.14"
   },
+
   "name": "tp2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "devDependencies": {},
+  
   "scripts": {
-   
- 
+    "ms": "node src/ms.js",
+    "mac": "node src/mac.js",
+    "maptc": "node src/maptc.js",
+    "mapaa": "node src/mapaa.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/spawnew/TP2.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "sorzio lucas",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/spawnew/TP2/issues"
   },

@@ -1,0 +1,33 @@
+{
+	"contenidoStr": "{\n  \"dependencies\": {\n    \"nodemon\": \"^3.1.14\"\n  },\n\n  \"name\": \"tp2\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"index.js\",\n  \"devDependencies\": {},\n  \n  \"scripts\": {\n    \"ms\": \"node src/ms.js\",\n    \"mac\": \"node src/mac.js\",\n    \"maptc\": \"node src/maptc.js\",\n    \"mapaa\": \"node src/mapaa.js\",\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n    \n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://github.com/spawnew/TP2.git\"\n  },\n  \"keywords\": [],\n  \"author\": \"sorzio lucas\",\n  \"license\": \"ISC\",\n  \"type\": \"module\",\n  \"bugs\": {\n    \"url\": \"https://github.com/spawnew/TP2/issues\"\n  },\n  \"homepage\": \"https://github.com/spawnew/TP2#readme\"\n}\n",
+	"contenidoObj": {
+		"dependencies": {
+			"nodemon": "^3.1.14"
+		},
+		"name": "tp2",
+		"version": "1.0.0",
+		"description": "",
+		"main": "index.js",
+		"devDependencies": {},
+		"scripts": {
+			"ms": "node src/ms.js",
+			"mac": "node src/mac.js",
+			"maptc": "node src/maptc.js",
+			"mapaa": "node src/mapaa.js",
+			"test": "echo \"Error: no test specified\" && exit 1"
+		},
+		"repository": {
+			"type": "git",
+			"url": "git+https://github.com/spawnew/TP2.git"
+		},
+		"keywords": [],
+		"author": "sorzio lucas",
+		"license": "ISC",
+		"type": "module",
+		"bugs": {
+			"url": "https://github.com/spawnew/TP2/issues"
+		},
+		"homepage": "https://github.com/spawnew/TP2#readme"
+	},
+	"size": 676
+}
